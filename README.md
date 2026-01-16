@@ -18,6 +18,7 @@ Me encanta resolver problemas complejos a través del código. Mi formación pre
 * **[NestJS Backend API](https://github.com/clover81/nestJS-framework-backend-Nodejs):** API REST modular construida con **Node.js** y **TypeScript**. Enfocada en la escalabilidad y el uso de inyección de dependencias para una lógica de negocio robusta.
 * **[Angular SPA Interface](https://github.com/clover81/Desarrollo-aplicacion-web-tipo-SPA-framework-Angular):** Aplicación de página única (SPA) desarrollada con **Angular** y **TypeScript**. Incluye navegación dinámica con Angular Router y una interfaz responsiva y eficiente.
 * **[Arquitectura Web Dos Capas](https://github.com/clover81/Despliegue-de-una-Arquitectura-Web-Dos-Capas-Frontend-Backend):** Proyecto de despliegue de infraestructura que separa el Frontend y el Backend, enfocado en la configuración de entornos y la comunicación entre servicios.
+* **[API REST Laravel](https://github.com/clover81/API-REST-Laravel):** Desarrollo de una interfaz de programación de aplicaciones (API) que permite la gestión de recursos mediante peticiones HTTP y respuestas JSON estandarizadas, aplicando validaciones y el ORM Eloquent.
 ---
 
 ### Conecta conmigo:
